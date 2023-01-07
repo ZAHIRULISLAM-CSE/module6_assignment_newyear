@@ -13,32 +13,24 @@
     color: white;
     font-family: 'Work Sans', sans-serif;
 }
-.banner-title1{
-    padding-top: 190px;
-    padding-left: 840px;
-    font-size: 65px;
+.banner-title{
+    text-align: right;
+    font-size: 55px;
     line-height: 76px;
-}
-.banner-title2{
-    padding-left: 810px;
-    font-size: 65px;
-    line-height: 76px;
-}
-.banner-title3{
-    padding-left: 1050px;
-    font-size: 65px;
-    line-height: 76px;
-    margin-bottom: 20px;
+    padding-top: 200px;
+    padding-right: 80px;
 }
 .banner-description{
-    padding-left: 870px;
-    line-height: 26px;
-    width: 30%;
+    text-align: right;
+    width: 494px;
+    height: 78px;
+    padding-top: 30px;
+    padding-left: 778px;
     margin-bottom: 20px;
 }
 .btn-contact{
     color: #005FAC;
-    margin-left: 1118px;
+    margin-left: 1125px;
     border: 12px solid white;
     padding: 5px;
     font-weight: 600;
@@ -47,7 +39,6 @@
     border-radius: 5px;
     background-color:white;
 }
-
 /* My Failure  Section css */
 .failure{
     width: 100%;
@@ -75,7 +66,7 @@
     line-height: 26px;
     color: #444343;
     margin-bottom: 20px;
-}
+} */
 /* My Plans Section */
 .plan-heading{
     text-align: center;
